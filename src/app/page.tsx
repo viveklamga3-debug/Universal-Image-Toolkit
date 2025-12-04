@@ -40,7 +40,7 @@ export default function Home() {
           <Logo className="w-12 h-12 text-primary" />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tighter text-foreground font-headline">
-          Universal Image Toolkit
+          Filemaster 
         </h1>
         <p className="mt-4 text-lg md:text-xl max-w-2xl mx-auto text-muted-foreground">
           Fast, Simple &amp; Safe Image Tools. All processing happens in your browser, so your images remain private.
